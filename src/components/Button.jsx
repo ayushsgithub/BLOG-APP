@@ -20,9 +20,9 @@ export default function Button({
 }
 
 Button.propTypes = {
-    children: PropTypes.node.isRequired,
-    type: PropTypes.string,
-    bgColor: PropTypes.string,
-    textColor: PropTypes.string,
-    className: PropTypes.string,
-    };
+  children: PropTypes.node.isRequired,
+  type: PropTypes.string,
+  bgColor: PropTypes.string,
+  textColor: PropTypes.string,
+  className: PropTypes.string,
+};
