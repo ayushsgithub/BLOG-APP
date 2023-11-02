@@ -1,4 +1,5 @@
-# React + Vite
+# Blog App
+### Built with React, Tailwind, Appwrite and more.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
